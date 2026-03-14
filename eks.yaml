@@ -1,5 +1,5 @@
 ApiVersion: eksctl.io/v1alpha4
-kind: Clusterconfig
+kind: ClusterConfig
 
 metadata:
   name: Roboshop-Cluster
